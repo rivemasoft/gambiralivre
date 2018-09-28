@@ -1,2 +1,0 @@
-# gambiralivre
-GambiraLivre App
