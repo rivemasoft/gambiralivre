@@ -15,7 +15,7 @@
 	
 	<!-- General preferences -->
 	<preference name="android-targetSdkVersion" value="26" />
-	<preference name="buildArchitecture" value="x86" />
+	<preference name="buildArchitecture" value="arm" />
 	<preference name="android-build-tool" value="ant" />
 	<preference name="permissions" value="none"/>
 

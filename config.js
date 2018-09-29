@@ -13,7 +13,7 @@ define( function ( require ) {
 		app_platform : 'android',
 		app_path: '',
 		gmt_offset : -3,
-		debug_mode : 'on',
+		debug_mode : 'off',
 		auth_key : 'g^)nj#+uV~FT[FuA`s5uZK9zQ>{/daZgc{j%zwSlE^yt6U:cR;G^K2yDb9*TfnE_',
 		options : {"refresh_interval":0},
 		theme_settings : [],
