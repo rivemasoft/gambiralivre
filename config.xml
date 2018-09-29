@@ -2,10 +2,10 @@
 <widget xmlns       = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "com.gambiralivre"
-        versionCode = "1.0"
-        version     = "1.0" >
+        versionCode = "2.0"
+        version     = "2.0" >
 
-	<name>GambiraLivre</name>
+	<name>Gambira Livre</name>
 
 	<description>Compre e venda tudo o que quiser pelo app do Gambira Livre! Descubra a melhor experi&#234;ncia de comprar e vender pela internet, usando o aplicativo oficial que re&#250;ne milh&#245;es de produtos das suas marcas favoritas. COMPRAR ON-LINE &#201; muito f&#225;cil pesquisar pre&#231;os e economizar com o nosso buscador de produtos! Encontre milhares de marcas a pre&#231;os incr&#237;veis na nossa loja on-line: jogos, livros, brinquedos, capas para celular, ferramentas, eletr&#244;nicos, sapatos, instrumentos, spinners, m&#243;veis, decora&#231;&#227;o, moda e muito mais! Voc&#234; pode comprar on-line at&#233; mesmo produtos de segunda m&#227;o. Nos nossos classificados voc&#234; encontrar&#225; ve&#237;culos, carros usados e motos de segunda m&#227;o. - Salve nos favoritos os produtos que voc&#234; mais gosta para n&#227;o perd&#234;-los de vista. - Voc&#234; poder&#225; pesquisar produtos usando filtros espec&#237;ficos de pre&#231;o, localiza&#231;&#227;o, frete gr&#225;tis e mais. - Temos uma variedade enorme de produtos por categoria, para que voc&#234; possa comparar pre&#231;os e ver as opini&#245;es de outros compradores. - Amplie as fotos de cada produto. - Economize com os nossos descontos em lojas oficiais on-line. - Fa&#231;a todas as perguntas que precisar antes de comprar. - Pague parcelado com o seu cart&#227;o de cr&#233;dito ou &#224; vista com diversas formas de pagamento. - Receba as suas compras sem sair de casa, n&#243;s as enviamos para onde voc&#234; quiser. - Acompanhe a sua encomenda com o rastreamento de pacotes. - Comunique-se de forma segura com o seu vendedor, usando o nosso servi&#231;o de mensagens. - Administre suas compras on-line. - Voc&#234; poder&#225; comprar e vender tudo o que precisar! VENDER ON-LINE No nosso app, voc&#234; poder&#225; vender on-line a ganhar dinheiro, inclusive com as suas coisas usadas: roupas, jogos, livros, brinquedos, eletr&#244;nicos, ferramentas, tecnologia, esportes, sapatos e muito mais! - Venda produtos novos e usados, anuncie gr&#225;tis! - Voc&#234; pode anunciar gratuitamente em 4 simples etapas e come&#231;ar a vender on-line. - Administre as suas compras e vendas pela sua conta. - Fale com o seu comprador ou vendedor usando a nossa ferramenta de mensagens instant&#226;neas. O app de e-commerce do Gambira Livre &#233; muito mais do que um aplicativo para comprar e vender coisas usadas! Voc&#234; vai descobrir que &#233; muito simples comprar barato e vender coisas novas e usadas on-line. Fazer compras pela internet &#233; f&#225;cil e divertido! #gambiralivre Visite o nosso site: https://www.gambiralivre.com.br Facebook: https://www.facebook.com/GambiraLivre/ YouTube: https://www.youtube.com/user/gambiralivre/ Em caso de d&#250;vidas, por favor, envie-nos um e-mail para suporte@rivemasoft.com.br</description>
 
@@ -15,8 +15,8 @@
 	
 	<!-- General preferences -->
 	<preference name="android-targetSdkVersion" value="26" />
-	<preference name="buildArchitecture" value="x86" />
-	<preference name="android-build-tool" value="ant" />
+	<preference name="buildArchitecture" value="arm" />
+	<preference name="android-build-tool" value="gradle" />
 	<preference name="permissions" value="none"/>
 
 	<preference name="disallowOverscroll" value="true" />
